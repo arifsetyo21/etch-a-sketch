@@ -7,7 +7,12 @@
    /* background-color: #2196F3; */
    /* padding: 10px; */
    /* margin: 10px; */
-   border: #2196F3 solid 5px;
+}
+
+.container {
+   height: 720px;
+   width: 100%;
+   margin: auto;
 }
 
 /* .grid-container > div { */
@@ -22,11 +27,6 @@
    /* padding: 20px 0; */
    /* font-size: 30px; */
 /* } */
-
-.grid-container > div:hover {
-   background-color: blue;
-   opacity: 0;
-}
 
 body{
    -webkit-touch-callout: none;
